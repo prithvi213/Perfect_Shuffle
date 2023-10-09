@@ -1,4 +1,4 @@
-## Programming Assignment 5
+## List ADT
 In this programming assignment, I learnt how to implement a different style List with a different
 style cursor. This was a new experience for me, because this was the first assignment in this 
 class which I was doing in C++. Learning C++ while doing this programming assignment was really
